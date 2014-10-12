@@ -1,0 +1,19 @@
+{
+  "main": "irpenguin.js",
+  "name": "assistant-penguininfrared",
+  "version": "1.0.0",
+  "description": "The assistant that understand the remote contoller ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MusicButler/assistant-penguininfrared.git"
+  },
+  "author": "Paul Varache",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MusicButler/assistant-penguininfrared/issues"
+  },
+  "homepage": "https://github.com/MusicButler/assistant-penguininfrared"
+}
